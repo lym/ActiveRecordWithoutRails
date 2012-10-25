@@ -1,0 +1,7 @@
+  adapter: postgresql
+  encoding: unicode
+  database: northwind
+  pool: 5
+  username: lym
+  password:
+
